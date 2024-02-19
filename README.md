@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+![Screenshot from 2024-02-19 03-25-48](https://github.com/sreyleak99/Sound_Mixer_Extension/assets/63221455/074cd844-20dd-4557-9647-2f640d25003b)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
