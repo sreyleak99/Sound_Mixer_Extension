@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Sound Mixer Extension",
+    "version": "1.0.0",
+    "description": "A sound mixer extension for Chrome",
+
+    "action": {
+    "default_icon": "images/sound.png",
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ]
+}
+  
